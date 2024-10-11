@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dinukifernando.github.io/static/css/main.ae305dbb.css",
+    "main.js": "/dinukifernando.github.io/static/js/main.7ea6735e.js",
+    "static/media/home-bg.png": "/dinukifernando.github.io/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/testimonials-bg.png": "/dinukifernando.github.io/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
+    "static/media/some-facts-bg.png": "/dinukifernando.github.io/static/media/some-facts-bg.1be1e9076a91e1574153.png",
+    "static/media/slick.svg": "/dinukifernando.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/dinukifernando.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/dinukifernando.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/dinukifernando.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/dinukifernando.github.io/index.html",
+    "main.ae305dbb.css.map": "/dinukifernando.github.io/static/css/main.ae305dbb.css.map",
+    "main.7ea6735e.js.map": "/dinukifernando.github.io/static/js/main.7ea6735e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae305dbb.css",
+    "static/js/main.7ea6735e.js"
+  ]
+}
